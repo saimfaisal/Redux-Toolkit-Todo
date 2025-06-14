@@ -24,7 +24,7 @@ function AddTodo() {
       />
       <button
         type="submit"
-        className="text-white bg-yellow-400 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-500 rounded text-lg"
+        className="text-white bg-yellow-400 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-900 rounded text-lg"
       >
         Add Todo
       </button>
